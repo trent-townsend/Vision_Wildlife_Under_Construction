@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+#logo-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo {
+    height: 200px;
+    display: block;
+}
+
+#name {
+    height: 200px;
+    margin-top: -6vh;
+}
+
+p { 
+    text-align: center;;
+}
+
+.container {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+.icon {
+    size: 1000px;
+    color:white;
+}

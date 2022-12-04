@@ -17,6 +17,13 @@ body {
   margin-bottom: 2em;
 }
 
+svg {
+  fill: white;
+}
+
+svg:hover {
+    fill: #008263;
+}
 
 #logo {
   height: 200px;
